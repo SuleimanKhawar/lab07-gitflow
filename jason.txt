@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+this is the second part of the lab
+=======
+this is the second part of the lab
+EDIT 2nd TIME
+>>>>>>> jason-feature
